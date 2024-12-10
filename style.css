@@ -1,0 +1,30 @@
+.container-top{
+    background-color:white;
+    
+}
+.image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 50px;
+}
+.text{
+    color: darkblue;
+    display: block;
+    width: 30%;
+    margin: auto;
+    
+}
+.text0{
+    color: burlywood;
+    font-family: 'Merriweather';
+    font-size: 70px;
+    
+}
+.title{
+    text-align: center;
+    color: burlywood;
+    font-family: 'Merriweather';
+    font-weight: bold;
+    font-size: 50px;
+}
